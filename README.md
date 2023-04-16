@@ -5,5 +5,7 @@
 邮箱与QQ同号
 
 宣传图片：
-![时空塔防_1](wsw12321/Game_Test_1/blob/9987fbb4b0acebd4c707517bb38e83865ed8277b/Images/flagstudio.baai.ac.cn_2090777159.jpg)
+![时空塔防_1](Images/flagstudio.baai.ac.cn_2090777159.jpg)
+![时空塔防_2](Images/flagstudio.baai.ac.cn_2101398199.jpg)
+![时空塔防_3](Images/flagstudio.baai.ac.cn_725184809.jpg)
 
