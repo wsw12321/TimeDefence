@@ -4,7 +4,7 @@
 作者QQ：2183220676
 邮箱与QQ同号
 
-宣传图片：
+宣传图片：(图片仅供参考)
 ![时空塔防_1](Images/flagstudio.baai.ac.cn_2090777159.jpg)
 ![时空塔防_2](Images/flagstudio.baai.ac.cn_2101398199.jpg)
 ![时空塔防_3](Images/flagstudio.baai.ac.cn_725184809.jpg)
